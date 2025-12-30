@@ -1,0 +1,22 @@
+{
+  "Sets": [
+    {
+      "SequencerSetSelector": 0,
+      "Features": {
+        "ExposureAuto": "Off",
+        "ExposureTime": 100.0
+      },
+      "SequencerSetNext": 1,
+      "SequencerSetTriggerSource": "FrameStart"
+    },
+    {
+      "SequencerSetSelector": 1,
+      "Features": {
+        "ExposureAuto": "Off",
+        "ExposureTime": 1000.0
+      },
+      "SequencerSetNext": 0,
+      "SequencerSetTriggerSource": "FrameStart"
+    }
+  ]
+}
